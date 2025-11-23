@@ -1,0 +1,5 @@
+{
+  "name": "Toán Học: Thám Hiểm Ngân Hà",
+  "description": "Ứng dụng học toán sinh động dành cho học sinh tiểu học, sử dụng Gemini AI để tạo các bài toán phù hợp với trình độ.",
+  "requestFramePermissions": []
+}
